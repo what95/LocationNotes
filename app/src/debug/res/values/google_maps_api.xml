@@ -1,0 +1,11 @@
+<resources>
+    <!--
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6A:57:8A:44:52:9A:5C:F8:F2:5B:42:06:12:EF:37:76:17:86:3C:2A%3Bcom.example.magnus.locationnotes
+
+    You can also add your credentials to an existing key, using this line:
+    6A:57:8A:44:52:9A:5C:F8:F2:5B:42:06:12:EF:37:76:17:86:3C:2A;com.example.magnus.locationnotes
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDGDKY1H_5SyC864dsn3nNqvAcTtvwI5rw
+    </string>
+</resources>
